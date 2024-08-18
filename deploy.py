@@ -17,7 +17,7 @@ import numpy as np
 
 # loading the model.
 
-model = pickle.load(open('C:\\Users\\DC\\Downloads\\log2_model.pkl', 'rb'))
+model = pickle.load(open('log2_model.pkl', 'rb'))
 
 
 # In[5]:
